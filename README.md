@@ -5,6 +5,7 @@
 <h1 align="center">Leafly 🌿</h1>
 <p align="center"><b>Sua Biblioteca Digital Completa</b></p>
 
+
 <p align="center">
    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-15-000?logo=nextdotjs&logoColor=white&style=flat-square" />
    <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square" />
@@ -14,6 +15,9 @@
 </p>
 
 ---
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Junior-Hugos/Projeto-Site/blob/main/LICENSE)
+
 
 # Leafly 🌿 – Sua Biblioteca Digital Completa
 
@@ -250,10 +254,13 @@ Este projeto foi desenvolvido como trabalho acadêmico. Para contribuições:
 
 ### 👥 Participantes do projeto
 
+- **Edmilson Figueiredo Santos Junior**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/edmilsonjunior87/)
+
 - **Geraldo George Trindade Costa**
 - **Lilian Mendes Silva dos Santos**
 - **Juliana Cristina Alves Fioretti**
-- **Edmilson Junior**
 - **Christal Camillo**
 - **Sarah Santana**
 
